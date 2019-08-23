@@ -7,15 +7,8 @@
 - javascript
 ***
 ## 项目目录结构
-TodoList/ 
-  │ 
-  ├── README.md 
-  │ 
-  ├── todo.css  
-  │ 
-  ├── todo.html 
-  │ 
-  └── todo.js
+![directory](https://github.com/realRichard/TodoList/blob/master/images/directory.png)
 ## UI 设计
 界面截图
+
 
