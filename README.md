@@ -7,10 +7,14 @@
 - javascript
 ***
 ## 项目目录结构
-TodoList/  
+TodoList/ 
+│ 
 ├── README.md 
+│ 
 ├── todo.css  
+│ 
 ├── todo.html 
+│ 
 └── todo.js
 ## UI 设计
 界面截图
