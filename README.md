@@ -8,10 +8,11 @@
 ***
 ## 项目目录结构
 TodoList/
-├── todo.css
+│ 
+├──  README.md
 │  
-├── todo.html
+├── todo.css
 │     
-├── todo.js
+├── todo.html
 │   
-└── README.md
+└── todo.js
