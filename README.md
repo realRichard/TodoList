@@ -8,14 +8,14 @@
 ***
 ## 项目目录结构
 TodoList/ 
-│ 
-├── README.md 
-│ 
-├── todo.css  
-│ 
-├── todo.html 
-│ 
-└── todo.js
+  │ 
+  ├── README.md 
+  │ 
+  ├── todo.css  
+  │ 
+  ├── todo.html 
+  │ 
+  └── todo.js
 ## UI 设计
 界面截图
 
